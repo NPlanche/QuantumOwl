@@ -3,7 +3,7 @@
     <section class = "game">
           <!-- 21:9 aspect ratio 
           <div class="embed-responsive embed-responsive-21by9">
-            <iframe class="embed-responsive-item" src="http://localhost/QOwl/TheGame-master/game_page/gcode/"></iframe>
+            <iframe class="embed-responsive-item" src="gcode/gcode.html"></iframe>
           </div>-->
 
 
