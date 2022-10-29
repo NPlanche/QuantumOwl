@@ -1,3 +1,3 @@
 # QuantumOwl
 
-<img src="https://drive.google.com/file/d/1Zjx8Q-gtubMesa46S2OmInp-rXDLKDXU/view?usp=sharing" width=1500>
+<img src="https://github.com/NPlanche/Mobile-Apps-Projects/blob/main/NotraMuse.png" width=1500>
